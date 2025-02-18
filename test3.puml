@@ -1,3 +1,6 @@
 @startuml
+
+!includeurl https://raw.githubusercontent.com/ffprintf/test-model/refs/heads/main/test4.puml
+
 class TomJerry
 @enduml
